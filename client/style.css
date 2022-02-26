@@ -62,3 +62,7 @@ html {
 .hint-blur:hover {
     cursor: pointer;
 }
+
+.hidden {
+    display:none
+}
